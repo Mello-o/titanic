@@ -149,3 +149,4 @@ ipython_config.py
 
 
 datasets/titanic.ipynb
+.DS_Store
